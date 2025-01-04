@@ -45,5 +45,5 @@ There’s not much difference, but people from high-income areas click less on a
  ## References
 
  1. [Click-Through Rate](https://www.masterclass.com/articles/what-is-click-through-rate)
- 2. [Project Reference]([https://divvybikes.com/data-license-agreement](https://thecleverprogrammer.com/2023/01/16/ads-click-through-rate-prediction-using-python/))
- 3. [Dataset]([https://divvybikes.com/data-license-agreement](https://www.kaggle.com/datasets/gauravduttakiit/clickthrough-rate-prediction))
+ 2. [Project Reference](https://thecleverprogrammer.com/2023/01/16/ads-click-through-rate-prediction-using-python/)
+ 3. [Dataset](https://www.kaggle.com/datasets/gauravduttakiit/clickthrough-rate-prediction)
